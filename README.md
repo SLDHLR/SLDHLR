@@ -93,6 +93,17 @@ tester = QAEngineer()
 tester.execute_tests()
 ```
 
+<!-- Contribution Snaka -->
+<div align="center">
+
+## 📊 My GitHub Contributions  
+
+![GitHub Contribution Snake Light](https://github.com/SLDHLR/SLDHLR/blob/output/github-contribution-grid-snake.svg)
+![GitHub Contribution Snake Dark](https://github.com/SLDHLR/SLDHLR/blob/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+
 ![Profile Views](https://komarev.com/ghpvc/?username=damithharshana&label=Profile+Views&color=0089D6&style=flat-square)
 
 </div>
